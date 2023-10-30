@@ -6,6 +6,7 @@
  * Data Types - Double --> Decimal/Float, Int, String, Boolean, etc...
  */ 
 
+
 public class DataType {
     public static void main(String[] args) {
         int year = 2023;
