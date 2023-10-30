@@ -1,0 +1,6 @@
+Google slides LSSN 2
+Link:
+
+NOTES: 
+ - ASCII, Bits/Bytes
+ - Encoding formats, Debuggers

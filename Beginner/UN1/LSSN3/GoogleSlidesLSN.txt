@@ -1,0 +1,6 @@
+Google Slides LSSN 3
+Link: 
+
+NOTES: 
+ - Error Types, Libraries
+ - Methods, Classes, Attributes 

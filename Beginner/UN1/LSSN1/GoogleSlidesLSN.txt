@@ -1,0 +1,8 @@
+Google slides LSSN 1
+Link:
+
+NOTES:
+ - Concepts about Java
+   + Why its important
+   + Daily Usage/Apps
+   + Programming your first code
