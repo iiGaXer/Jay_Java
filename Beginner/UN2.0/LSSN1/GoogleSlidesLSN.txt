@@ -2,5 +2,5 @@ Google slides LSSN 1
 Link:
 
 NOTES: 
- - Data Types, Primitive Data, Exceptions
+ - Data Types, Primitive Data
  - Loops, Java-ONLY-Loops

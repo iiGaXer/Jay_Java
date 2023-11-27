@@ -1,0 +1,6 @@
+Google slides LSSN 2
+Link:
+
+NOTES: 
+ - Comments, Objects
+ - Exceptions for outputs
