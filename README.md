@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Java Lessons
-=======
-# Java--U12-U18
-A list of Java lessons and 'projects'/basic code for anyone interested in Java.
->>>>>>> a24e01edcc1d3e5cecdc55b6a03c694bbbb4df90
 
 >***A series of Java lessons for any new Java users.***
 
