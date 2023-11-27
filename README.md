@@ -11,6 +11,7 @@ if they know the following code being executed (comments should sorta help you f
 <pre></pre>
 
 > Website: *In progress, will be posted.*
+<br></br>
 > Progress: *In due time, when the full google slides is finished, it will be posted here as well as the full extended Java lessons with all code units.* 
 
 > *All lessons are finalized*
