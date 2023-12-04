@@ -3,4 +3,4 @@ Link:
 
 NOTES: 
  - Data Types, Primitive Data
- - Loops, Java-ONLY-Loops
+ - General Loops (For, While, Do-While)
