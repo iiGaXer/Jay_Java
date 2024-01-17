@@ -2,5 +2,5 @@ Google slides LSSN 1
 Link:
 
 NOTES: 
- - 
- - 
+ - Analogies of classes
+ - Better Understanding of classes

@@ -3,4 +3,4 @@ Link:
 
 NOTES: 
  - Error Types, Libraries
- - Analogies and Definitions of Methods, Classes, Attributes 
+ - Definitions of Methods, Classes, Attributes 
