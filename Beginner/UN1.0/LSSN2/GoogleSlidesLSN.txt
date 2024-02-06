@@ -4,3 +4,5 @@ Link:
 NOTES: 
  - ASCII, Bits/Bytes
  - Encoding formats, Debuggers
+
+ [COMPLETE, Google Slides needed]

@@ -6,3 +6,5 @@ NOTES:
    + Why its important
    + Daily Usage/Apps
    + Programming your first code
+
+[COMPLETE, Google Slides needed]

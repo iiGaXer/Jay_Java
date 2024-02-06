@@ -4,3 +4,5 @@ Link:
 NOTES: 
  - Data Types, Primitive Data
  - General Loops (For, While, Do-While)
+
+[COMPLETE, Google Slides needed]

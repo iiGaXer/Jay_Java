@@ -2,5 +2,5 @@ Google slides LSSN 3
 Link:
 
 NOTES: 
- - Different wrapper classes
+ - Basic operators
  - Math Class Methods

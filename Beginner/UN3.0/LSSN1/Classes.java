@@ -4,7 +4,7 @@ public Class Classes() {
 /*
 * Classes are the main makeup of multiple languages, relying on such to execute 
 simple codes - such as C++ and Java
-* It is a template for objects with similar attributes and properties, ex:
+* It is a template for objects (learned in UN2.2) with similar attributes and properties, ex:
     - A class "Student" has objects named "Raj" & "Taj,"
     - They are both in the same 'grade,' something that can be defined as an atribute, and are, at base, students
     - However, they are NOT in the same 'track', Raj in II and Taj in I

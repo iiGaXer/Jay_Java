@@ -4,3 +4,5 @@ Link:
 NOTES: 
  - Comments, Objects
  - Exceptions for outputs
+
+[COMPLETE, Google Slides needed]

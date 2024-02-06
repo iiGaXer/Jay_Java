@@ -2,5 +2,5 @@ Google slides LSSN 4
 Link:
 
 NOTES: 
- - Void methods VS non-void methods
+ - Taking different inputs
  - Boolean loops, Nested loops

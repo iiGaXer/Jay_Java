@@ -1,4 +1,5 @@
-package Beginner.UN3;
+// package Beginner.UN3;
+
 /*
 * Loops - A feature that repeats a set of commands for a durational period
 *   - "For" loops a set amount of times 
@@ -11,9 +12,10 @@ public class loops {
         for (int i = 0; i < 3; i++) {
             if (i == 3) {
                 break;
+            } while (i != 3) {
+                continue;
             }
         }
-
 
     } 
 }
